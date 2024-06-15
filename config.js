@@ -1,9 +1,9 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/CG5ZPcJ22fL7QjNRzjguD0'] // No tiene utilidad 
-global.channelYT = ['https://chat.whatsapp.com/CG5ZPcJ22fL7QjNRzjguD0'] // No tiene utilidad
-global.owner = ['5212411347465'] //Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
-global.mods = ['5212412377467'] //No tiene utilidad
-global.prems = ['521211719888' , '5212411347465', '5212412377467'] //Podra usar algunos comandos del apartado de propietario
+global.linkGC = ['https://chat.whatsapp.com/LErRdiLdyYa7Xq5FwCd2Y4'] // No tiene utilidad 
+global.channelYT = ['https://chat.whatsapp.com/LErRdiLdyYa7Xq5FwCd2Y4'] // No tiene utilidad
+global.owner = ['51925015528'] //Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
+global.mods = ['51925015528'] //No tiene utilidad
+global.prems = ['51925015528' , '51925015528', '51925015528'] //Podra usar algunos comandos del apartado de propietario
 
 //Lo siguiente no tiene nada que ver con el funcionamiento del Bot:
 //Nota: Puedes contactarme si necesitas ayuda con algo al +5219996125657 (este es mi numero personal/real bloqueo personas que no sean temas de la instalación)
@@ -55,11 +55,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '❍͜͡➣𝐘𝐎𝐕𝐀𝐍𝐈❍͜͡➣'
-global.author = '?????????_???????'
+global.packname = '_𝐃𝐑𝐀𝐆𝐎́𝐍_𝐁𝐀𝐋𝐋 - 𝐁𝐎𝐓 𝐌𝐃_'
+global.author = '*Aldair_OFC*'
 
 
-global.wm = '?????????_???????'
+global.wm = '<...>'
 global.wait = '*Espere un momento..*'
 
 
